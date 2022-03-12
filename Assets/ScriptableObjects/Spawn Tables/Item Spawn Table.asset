@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 679a2d41a117c2547b29ba3f6c7ad1f5, type: 3}
+  m_Name: Item Spawn Table
+  m_EditorClassIdentifier: 
+  items:
+  - item: {fileID: 11400000, guid: 04257d3f7ff698b4492eace675ec94a3, type: 2}
+    itemChance: 17
+  - item: {fileID: 11400000, guid: 84a76b0a15f20964382d5c902e729090, type: 2}
+    itemChance: 17
+  - item: {fileID: 11400000, guid: 65370454736510041bc4628f5a9be21c, type: 2}
+    itemChance: 17
+  - item: {fileID: 11400000, guid: 0be16900f01f5414795646f7f6810ab7, type: 2}
+    itemChance: 17
+  - item: {fileID: 11400000, guid: 4aa5adefef00f3841ae2f906dfce0dba, type: 2}
+    itemChance: 17
+  - item: {fileID: 11400000, guid: 7e0d01a033414164c95f0b96e792f7d7, type: 2}
+    itemChance: 15

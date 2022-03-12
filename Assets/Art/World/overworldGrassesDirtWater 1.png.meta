@@ -1,0 +1,1007 @@
+fileFormatVersion: 2
+guid: 78f522b06ee68c4429f1f6a105bef5d1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4272002457608315624
+    second: overworldGrassesDirtWater 1_0
+  - first:
+      213: 4049240088598674361
+    second: overworldGrassesDirtWater 1_1
+  - first:
+      213: 2903649053630579534
+    second: overworldGrassesDirtWater 1_2
+  - first:
+      213: 5402099725455276776
+    second: overworldGrassesDirtWater 1_3
+  - first:
+      213: 9077798292032918672
+    second: overworldGrassesDirtWater 1_4
+  - first:
+      213: 1819198168303671817
+    second: overworldGrassesDirtWater 1_5
+  - first:
+      213: -6255540745947942097
+    second: overworldGrassesDirtWater 1_6
+  - first:
+      213: 7824996392587567729
+    second: overworldGrassesDirtWater 1_7
+  - first:
+      213: 2852964171949187456
+    second: overworldGrassesDirtWater 1_8
+  - first:
+      213: -7399860034717932572
+    second: overworldGrassesDirtWater 1_9
+  - first:
+      213: 859314180001699364
+    second: overworldGrassesDirtWater 1_10
+  - first:
+      213: 1800673187680556640
+    second: overworldGrassesDirtWater 1_11
+  - first:
+      213: 4276571890333979803
+    second: overworldGrassesDirtWater 1_12
+  - first:
+      213: -6317735971342628837
+    second: overworldGrassesDirtWater 1_13
+  - first:
+      213: -6542773669316531466
+    second: overworldGrassesDirtWater 1_14
+  - first:
+      213: -6975005253259241695
+    second: overworldGrassesDirtWater 1_15
+  - first:
+      213: 2048194108513280379
+    second: overworldGrassesDirtWater 1_16
+  - first:
+      213: -5093776511295341857
+    second: overworldGrassesDirtWater 1_17
+  - first:
+      213: -4042084838899050799
+    second: overworldGrassesDirtWater 1_18
+  - first:
+      213: -4068951054194706056
+    second: overworldGrassesDirtWater 1_19
+  - first:
+      213: -2056026723687175300
+    second: overworldGrassesDirtWater 1_20
+  - first:
+      213: 6261428889183664458
+    second: overworldGrassesDirtWater 1_21
+  - first:
+      213: 6303021054545036985
+    second: overworldGrassesDirtWater 1_22
+  - first:
+      213: -8733842195443803726
+    second: overworldGrassesDirtWater 1_23
+  - first:
+      213: -2966118473268904288
+    second: overworldGrassesDirtWater 1_24
+  - first:
+      213: 8338065537452338305
+    second: overworldGrassesDirtWater 1_25
+  - first:
+      213: 2338644614915486168
+    second: overworldGrassesDirtWater 1_26
+  - first:
+      213: -5356085213505154603
+    second: overworldGrassesDirtWater 1_27
+  - first:
+      213: -8741272432581405812
+    second: overworldGrassesDirtWater 1_28
+  - first:
+      213: 1642648218706710461
+    second: overworldGrassesDirtWater 1_29
+  - first:
+      213: 1365244495499301287
+    second: overworldGrassesDirtWater 1_30
+  - first:
+      213: -2986812419915359687
+    second: overworldGrassesDirtWater 1_31
+  - first:
+      213: -3000559533035851183
+    second: overworldGrassesDirtWater 1_32
+  - first:
+      213: -1065606302559805542
+    second: overworldGrassesDirtWater 1_33
+  - first:
+      213: -6502838439231560183
+    second: overworldGrassesDirtWater 1_34
+  - first:
+      213: 3584379610674806925
+    second: overworldGrassesDirtWater 1_35
+  - first:
+      213: 2006108168150821646
+    second: overworldGrassesDirtWater 1_36
+  - first:
+      213: -5023810973311787044
+    second: overworldGrassesDirtWater 1_37
+  - first:
+      213: -7366239294719691578
+    second: overworldGrassesDirtWater 1_38
+  - first:
+      213: -8496764558177194477
+    second: overworldGrassesDirtWater 1_39
+  - first:
+      213: 4535309425817845884
+    second: overworldGrassesDirtWater 1_40
+  - first:
+      213: 6536449762685047457
+    second: overworldGrassesDirtWater 1_41
+  - first:
+      213: -6125440328073581382
+    second: overworldGrassesDirtWater 1_42
+  - first:
+      213: 6278584267135542846
+    second: overworldGrassesDirtWater 1_43
+  - first:
+      213: -8166975121350960999
+    second: overworldGrassesDirtWater 1_44
+  - first:
+      213: -8977444564290007630
+    second: overworldGrassesDirtWater 1_45
+  - first:
+      213: 5124062669407484293
+    second: overworldGrassesDirtWater 1_46
+  - first:
+      213: 1774784302058139784
+    second: overworldGrassesDirtWater 1_47
+  - first:
+      213: -732699699762445438
+    second: overworldGrassesDirtWater 1_48
+  - first:
+      213: -1867042585280723450
+    second: overworldGrassesDirtWater 1_49
+  - first:
+      213: 1933688664659555073
+    second: overworldGrassesDirtWater 1_50
+  - first:
+      213: -3356143288617735250
+    second: overworldGrassesDirtWater 1_51
+  - first:
+      213: 3918240863886076133
+    second: overworldGrassesDirtWater 1_52
+  - first:
+      213: 536317962758281118
+    second: overworldGrassesDirtWater 1_53
+  - first:
+      213: -6796600781566090638
+    second: overworldGrassesDirtWater 1_54
+  - first:
+      213: 8910237430180570185
+    second: overworldGrassesDirtWater 1_55
+  - first:
+      213: -6131141847876209960
+    second: overworldGrassesDirtWater 1_56
+  - first:
+      213: 2634592423461222868
+    second: overworldGrassesDirtWater 1_57
+  - first:
+      213: 6586642872114767976
+    second: overworldGrassesDirtWater 1_58
+  - first:
+      213: -6894021012454560957
+    second: overworldGrassesDirtWater 1_59
+  - first:
+      213: 3877297058051889105
+    second: overworldGrassesDirtWater 1_60
+  - first:
+      213: 5986800760515342592
+    second: overworldGrassesDirtWater 1_61
+  - first:
+      213: -7234168158159876067
+    second: overworldGrassesDirtWater 1_62
+  - first:
+      213: -4547820852698777199
+    second: overworldGrassesDirtWater 1_63
+  - first:
+      213: -7418524135705608066
+    second: overworldGrassesDirtWater 1_64
+  - first:
+      213: -9148556848625953778
+    second: overworldGrassesDirtWater 1_65
+  - first:
+      213: 5267069114421245564
+    second: overworldGrassesDirtWater 1_66
+  - first:
+      213: 3612355936590677284
+    second: overworldGrassesDirtWater 1_67
+  - first:
+      213: -4073019999353451110
+    second: overworldGrassesDirtWater 1_68
+  - first:
+      213: 199790461241183821
+    second: overworldGrassesDirtWater 1_69
+  - first:
+      213: -2962091836989057475
+    second: overworldGrassesDirtWater 1_70
+  - first:
+      213: -5299724685750479462
+    second: overworldGrassesDirtWater 1_71
+  - first:
+      213: -8360610091647573941
+    second: overworldGrassesDirtWater 1_72
+  - first:
+      213: -5765206505463244219
+    second: overworldGrassesDirtWater 1_73
+  - first:
+      213: -885701193978991946
+    second: overworldGrassesDirtWater 1_74
+  - first:
+      213: 869028988449547779
+    second: overworldGrassesDirtWater 1_75
+  - first:
+      213: 1431044958372095405
+    second: overworldGrassesDirtWater 1_76
+  - first:
+      213: -2464966028668714513
+    second: overworldGrassesDirtWater 1_77
+  - first:
+      213: 7649168050832956393
+    second: overworldGrassesDirtWater 1_78
+  - first:
+      213: 3411281729292756458
+    second: overworldGrassesDirtWater 1_79
+  - first:
+      213: -8430402882503615687
+    second: overworldGrassesDirtWater 1_80
+  - first:
+      213: -8157477194956199982
+    second: overworldGrassesDirtWater 1_81
+  - first:
+      213: 3389519047244668999
+    second: overworldGrassesDirtWater 1_82
+  - first:
+      213: 3152638358667885529
+    second: overworldGrassesDirtWater 1_83
+  - first:
+      213: -253374517667116400
+    second: overworldGrassesDirtWater 1_84
+  - first:
+      213: 3031490391470272268
+    second: overworldGrassesDirtWater 1_85
+  - first:
+      213: -993587781943985287
+    second: overworldGrassesDirtWater 1_86
+  - first:
+      213: -2732558834584242988
+    second: overworldGrassesDirtWater 1_87
+  - first:
+      213: -5675827857436783060
+    second: overworldGrassesDirtWater 1_88
+  - first:
+      213: 3162880021735758397
+    second: overworldGrassesDirtWater 1_89
+  - first:
+      213: -7761897725886293530
+    second: overworldGrassesDirtWater 1_90
+  - first:
+      213: -7841907646158878995
+    second: overworldGrassesDirtWater 1_91
+  - first:
+      213: -6465669535025478815
+    second: overworldGrassesDirtWater 1_92
+  - first:
+      213: -5491354015423170776
+    second: overworldGrassesDirtWater 1_93
+  - first:
+      213: 8868068528180807741
+    second: overworldGrassesDirtWater 1_94
+  - first:
+      213: 7865312958171632787
+    second: overworldGrassesDirtWater 1_95
+  - first:
+      213: 1518010372458403373
+    second: overworldGrassesDirtWater 1_96
+  - first:
+      213: 4618748198129334282
+    second: overworldGrassesDirtWater 1_97
+  - first:
+      213: -2182914971928254401
+    second: overworldGrassesDirtWater 1_98
+  - first:
+      213: 2128936233214800938
+    second: overworldGrassesDirtWater 1_99
+  - first:
+      213: -6883801696709149419
+    second: overworldGrassesDirtWater 1_100
+  - first:
+      213: -5450295090066029077
+    second: overworldGrassesDirtWater 1_101
+  - first:
+      213: 7892196573686994155
+    second: overworldGrassesDirtWater 1_102
+  - first:
+      213: 1277974237745608656
+    second: overworldGrassesDirtWater 1_103
+  - first:
+      213: 7846865094554662333
+    second: overworldGrassesDirtWater 1_104
+  - first:
+      213: 2648962799783415519
+    second: overworldGrassesDirtWater 1_105
+  - first:
+      213: 3956672946355112327
+    second: overworldGrassesDirtWater 1_106
+  - first:
+      213: 2721426988624608554
+    second: overworldGrassesDirtWater 1_107
+  - first:
+      213: -8270011199730301830
+    second: overworldGrassesDirtWater 1_108
+  - first:
+      213: -7240589860433067857
+    second: overworldGrassesDirtWater 1_109
+  - first:
+      213: -1513629280724302310
+    second: overworldGrassesDirtWater 1_110
+  - first:
+      213: -1938662189682334328
+    second: overworldGrassesDirtWater 1_111
+  - first:
+      213: 6557023243596298520
+    second: overworldGrassesDirtWater 1_112
+  - first:
+      213: 6945005825553885001
+    second: overworldGrassesDirtWater 1_113
+  - first:
+      213: -4461955110423217736
+    second: overworldGrassesDirtWater 1_114
+  - first:
+      213: -4329152219909159773
+    second: overworldGrassesDirtWater 1_115
+  - first:
+      213: -9006496989939824928
+    second: overworldGrassesDirtWater 1_116
+  - first:
+      213: 6353306051935706808
+    second: overworldGrassesDirtWater 1_117
+  - first:
+      213: -5551499566479541698
+    second: overworldGrassesDirtWater 1_118
+  - first:
+      213: 2272803524216825434
+    second: overworldGrassesDirtWater 1_119
+  - first:
+      213: -3686199551263930646
+    second: overworldGrassesDirtWater 1_120
+  - first:
+      213: 473792508248549242
+    second: overworldGrassesDirtWater 1_121
+  - first:
+      213: 5661045447209805981
+    second: overworldGrassesDirtWater 1_122
+  - first:
+      213: -2610032393556067024
+    second: overworldGrassesDirtWater 1_123
+  - first:
+      213: 5317863544557655015
+    second: overworldGrassesDirtWater 1_124
+  - first:
+      213: -8126927996175346404
+    second: overworldGrassesDirtWater 1_125
+  - first:
+      213: -8572605546620454047
+    second: overworldGrassesDirtWater 1_126
+  - first:
+      213: 315476945951132922
+    second: overworldGrassesDirtWater 1_127
+  - first:
+      213: 4371793942100714829
+    second: overworldGrassesDirtWater 1_128
+  - first:
+      213: -3681824414788114044
+    second: overworldGrassesDirtWater 1_129
+  - first:
+      213: 2069767006555014429
+    second: overworldGrassesDirtWater 1_130
+  - first:
+      213: 6600139322560393788
+    second: overworldGrassesDirtWater 1_131
+  - first:
+      213: 7113805238756646085
+    second: overworldGrassesDirtWater 1_132
+  - first:
+      213: -1119004312731763561
+    second: overworldGrassesDirtWater 1_133
+  - first:
+      213: -8519069975739631702
+    second: overworldGrassesDirtWater 1_134
+  - first:
+      213: 3967854400424774110
+    second: overworldGrassesDirtWater 1_135
+  - first:
+      213: 591712291063786278
+    second: overworldGrassesDirtWater 1_136
+  - first:
+      213: -4970243411758541966
+    second: overworldGrassesDirtWater 1_137
+  - first:
+      213: 3241241524509880214
+    second: overworldGrassesDirtWater 1_138
+  - first:
+      213: 481881942279020889
+    second: overworldGrassesDirtWater 1_139
+  - first:
+      213: -391385928224661194
+    second: overworldGrassesDirtWater 1_140
+  - first:
+      213: -5739327167389526375
+    second: overworldGrassesDirtWater 1_141
+  - first:
+      213: 8858748698409407552
+    second: overworldGrassesDirtWater 1_142
+  - first:
+      213: -6559570404487536617
+    second: overworldGrassesDirtWater 1_143
+  - first:
+      213: -8822882337637760777
+    second: overworldGrassesDirtWater 1_144
+  - first:
+      213: 4892055216627411229
+    second: overworldGrassesDirtWater 1_145
+  - first:
+      213: -733978319195719642
+    second: overworldGrassesDirtWater 1_146
+  - first:
+      213: 5648742855624437466
+    second: overworldGrassesDirtWater 1_147
+  - first:
+      213: -6010017429590806554
+    second: overworldGrassesDirtWater 1_148
+  - first:
+      213: -6656003907991570672
+    second: overworldGrassesDirtWater 1_149
+  - first:
+      213: -4521768978661747464
+    second: overworldGrassesDirtWater 1_150
+  - first:
+      213: 5224114797503697414
+    second: overworldGrassesDirtWater 1_151
+  - first:
+      213: 6117691884441601412
+    second: overworldGrassesDirtWater 1_152
+  - first:
+      213: 5717564817303758521
+    second: overworldGrassesDirtWater 1_153
+  - first:
+      213: 7105671776886804094
+    second: overworldGrassesDirtWater 1_154
+  - first:
+      213: -7934699371559979269
+    second: overworldGrassesDirtWater 1_155
+  - first:
+      213: -5773129057974713018
+    second: overworldGrassesDirtWater 1_156
+  - first:
+      213: 8136577064742043941
+    second: overworldGrassesDirtWater 1_157
+  - first:
+      213: -68175773381441061
+    second: overworldGrassesDirtWater 1_158
+  - first:
+      213: -6840841950388630795
+    second: overworldGrassesDirtWater 1_159
+  - first:
+      213: 8398366680318661741
+    second: overworldGrassesDirtWater 1_160
+  - first:
+      213: 2145859548938644644
+    second: overworldGrassesDirtWater 1_161
+  - first:
+      213: -3634594188051540568
+    second: overworldGrassesDirtWater 1_162
+  - first:
+      213: -3912203538518916110
+    second: overworldGrassesDirtWater 1_163
+  - first:
+      213: 2248548372426806095
+    second: overworldGrassesDirtWater 1_164
+  - first:
+      213: 6984408864921571267
+    second: overworldGrassesDirtWater 1_165
+  - first:
+      213: -4820943838903559040
+    second: overworldGrassesDirtWater 1_166
+  - first:
+      213: -1577818344144867398
+    second: overworldGrassesDirtWater 1_167
+  - first:
+      213: 5458772441778681309
+    second: overworldGrassesDirtWater 1_168
+  - first:
+      213: -3874589321948786931
+    second: overworldGrassesDirtWater 1_169
+  - first:
+      213: 977066456169546019
+    second: overworldGrassesDirtWater 1_170
+  - first:
+      213: 5545394218031102064
+    second: overworldGrassesDirtWater 1_171
+  - first:
+      213: 5810575790801569779
+    second: overworldGrassesDirtWater 1_172
+  - first:
+      213: -7299905103391786602
+    second: overworldGrassesDirtWater 1_173
+  - first:
+      213: -6198558976102962235
+    second: overworldGrassesDirtWater 1_174
+  - first:
+      213: -4042911682972444576
+    second: overworldGrassesDirtWater 1_175
+  - first:
+      213: 8516667883585243761
+    second: overworldGrassesDirtWater 1_176
+  - first:
+      213: -7910790972823414149
+    second: overworldGrassesDirtWater 1_177
+  - first:
+      213: -7038155155528429850
+    second: overworldGrassesDirtWater 1_178
+  - first:
+      213: 7959941718613597093
+    second: overworldGrassesDirtWater 1_179
+  - first:
+      213: -8299686384677372054
+    second: overworldGrassesDirtWater 1_180
+  - first:
+      213: -3204277125625325560
+    second: overworldGrassesDirtWater 1_181
+  - first:
+      213: 583286520676530047
+    second: overworldGrassesDirtWater 1_182
+  - first:
+      213: -299256868620570217
+    second: overworldGrassesDirtWater 1_183
+  - first:
+      213: 859698829266112428
+    second: overworldGrassesDirtWater 1_184
+  - first:
+      213: 132707372310550483
+    second: overworldGrassesDirtWater 1_185
+  - first:
+      213: 2589345817630581297
+    second: overworldGrassesDirtWater 1_186
+  - first:
+      213: 5687525315110802900
+    second: overworldGrassesDirtWater 1_187
+  - first:
+      213: -6256554363765751353
+    second: overworldGrassesDirtWater 1_188
+  - first:
+      213: 8518257169664654511
+    second: overworldGrassesDirtWater 1_189
+  - first:
+      213: -3541944488248489848
+    second: overworldGrassesDirtWater 1_190
+  - first:
+      213: 2971426925427596009
+    second: overworldGrassesDirtWater 1_191
+  - first:
+      213: -3625928625714482766
+    second: overworldGrassesDirtWater 1_192
+  - first:
+      213: -3432861602426648864
+    second: overworldGrassesDirtWater 1_193
+  - first:
+      213: 6549255196315019691
+    second: overworldGrassesDirtWater 1_194
+  - first:
+      213: -7252137291798520577
+    second: overworldGrassesDirtWater 1_195
+  - first:
+      213: -6827224145114364495
+    second: overworldGrassesDirtWater 1_196
+  - first:
+      213: -2966496509129591154
+    second: overworldGrassesDirtWater 1_197
+  - first:
+      213: 8605280421640346351
+    second: overworldGrassesDirtWater 1_198
+  - first:
+      213: 997260157253554531
+    second: overworldGrassesDirtWater 1_199
+  - first:
+      213: 2529233068003023747
+    second: overworldGrassesDirtWater 1_200
+  - first:
+      213: 8610668541335704632
+    second: overworldGrassesDirtWater 1_201
+  - first:
+      213: 8261398357892689828
+    second: overworldGrassesDirtWater 1_202
+  - first:
+      213: 6101569669726959742
+    second: overworldGrassesDirtWater 1_203
+  - first:
+      213: 175280954503837740
+    second: overworldGrassesDirtWater 1_204
+  - first:
+      213: -6206639540430314102
+    second: overworldGrassesDirtWater 1_205
+  - first:
+      213: 986376213822626659
+    second: overworldGrassesDirtWater 1_206
+  - first:
+      213: -3123206104971135927
+    second: overworldGrassesDirtWater 1_207
+  - first:
+      213: 7802478996309457106
+    second: overworldGrassesDirtWater 1_208
+  - first:
+      213: -1365066259251553927
+    second: overworldGrassesDirtWater 1_209
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: overworldGrassesDirtWater 1_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bbf133286ac13830800000000000000
+      internalID: 4049240088598674361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overworldGrassesDirtWater 1_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e43cc0a1e65db4820800000000000000
+      internalID: 2903649053630579534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overworldGrassesDirtWater 1_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea3ff8241d18fa40800000000000000
+      internalID: 5402099725455276776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overworldGrassesDirtWater 1_4
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 094154b4371dafd70800000000000000
+      internalID: 9077798292032918672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overworldGrassesDirtWater 1_5
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a18c578171f3910800000000000000
+      internalID: 1819198168303671817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overworldGrassesDirtWater 1_6
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f237ac7b5dadf29a0800000000000000
+      internalID: -6255540745947942097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overworldGrassesDirtWater 1_7
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17225eca2c8f79c60800000000000000
+      internalID: 7824996392587567729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overworldGrassesDirtWater 1_8
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 081a2f97cc3c79720800000000000000
+      internalID: 2852964171949187456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overworldGrassesDirtWater 1_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e3270b218a6e4990800000000000000
+      internalID: -7399860034717932572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overworldGrassesDirtWater 1_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4261571a1b5eceb00800000000000000
+      internalID: 859314180001699364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overworldGrassesDirtWater 1_11
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 066154c49b64df810800000000000000
+      internalID: 1800673187680556640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overworldGrassesDirtWater 1_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9417cbd97f695b30800000000000000
+      internalID: 4276571890333979803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overworldGrassesDirtWater 1_13
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b184a6b5b94e258a0800000000000000
+      internalID: -6317735971342628837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
