@@ -10,10 +10,10 @@ Currently finished:
   - Continuously decreasing hunger bar
   - Car spawn & collision system (hurts health to be hit)
   - Acquiring of items from trash cans with space bar
-  - Opening scene
+  - Opening cut scene
 
 Currently working on:
-  - Eating acquired item
+  - Eating acquired item and effects
   - Debugging
 
 Future work:
@@ -21,7 +21,9 @@ Future work:
   - Adding NPCs
   - Adding a storyline
 
-Demo Video (video lags more than game actually does on Unity):
+Demo Video:
 
-https://user-images.githubusercontent.com/100095847/202306832-c17718d1-1b57-4f51-b393-f05fdaa663eb.mp4
+https://github.com/soyonchoi29/streetcat/assets/100095847/5cc2b607-b8ce-4ee5-bc6f-e04353c9adae
+
+
 
