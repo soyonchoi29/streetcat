@@ -23,7 +23,8 @@ Future work:
 
 Demo Video:
 
-https://github.com/soyonchoi29/streetcat/assets/100095847/5cc2b607-b8ce-4ee5-bc6f-e04353c9adae
+https://github.com/soyonchoi29/streetcat/assets/100095847/5640aa60-4ccd-4c18-8cee-1e224ab2e158
+
 
 
 
